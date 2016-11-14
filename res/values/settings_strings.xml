@@ -25,50 +25,50 @@
  
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     
-	<!-- Serval Settings -->
-	<string name="settings_wifiSettings">Wifi Settings</string>
-	<string name="settings_changeSSID">Change SSID</string> 
-	<string name="settings_networkName">Network name</string> 
-	<string name="settings_enterSSID">Enter SSID</string> 
-	<string name="settings_ssidprefDefault">mesh.servalproject.org</string> 
-	<string name="settings_alphaNumeric">Only alpha-numeric characters and \'.\', \'_\' allowed!</string> 
-	<string name="settings_changeChannel">Change Channel</string>  
-	<string name="settings_wirelessFreq">Wireless frequency channel</string>
-	<string name="settings_selectChannel">Select Channel</string>
-	<string name="settings_transmitPower">Transmit Power</string>  
-	<string name="settings_reduceTransmit">Reduce transmit power</string>  
-	<string name="settings_reducePower">Reduce Power</string>
-	<string name="settings_powerprefDisabled">Disabled</string>
-	<string name="settings_networkAddress">Network Address</string>  
-	<string name="settings_selectIP">Select IP and subnet size</string>
-	<string name="settings_formABC">Must be an IP address and valid netmask of the form A.B.C.D/E. Only digits, \'.\' and \'/\' allowed.</string>
-	<string name="settings_flightOptions">Power Saving - Flight Mode</string>	
-	<string name="settings_flightMode">Select which radios can be turned back on while in flight mode (WARNING - do not use while flying).</string>
-    <string name="settings_allowBluetooth">Allow BlueTooth</string>
-    <string name="settings_needReboot">(Requires Reboot)</string>
-    <string name="settings_allowWifi">Allow WiFi</string>    
+    <!-- Serval Settings -->
+    <string name="settings_wifiSettings">اعدادت الواي فاي</string>
+    <string name="settings_changeSSID">تغيير SSID</string>
+    <string name="settings_networkName">اسم الشبكة</string>
+    <string name="settings_enterSSID">ادخل SSID</string>
+    <string name="settings_ssidprefDefault">mesh.servalproject.org</string>
+    <string name="settings_alphaNumeric">فقط الرموز ألفا رقمية   و\ '\'، \ '_ \' المسموح بها!</string>
+    <string name="settings_changeChannel">تغيير القناة</string>
+    <string name="settings_wirelessFreq">تردد قناة لاسلكية</string>
+    <string name="settings_selectChannel">اختيار القناة</string>
+    <string name="settings_transmitPower">نقل الطاقة</string>
+    <string name="settings_reduceTransmit">تقليل قوة الإرسال</string>
+    <string name="settings_reducePower">خفض الطاقة</string>
+    <string name="settings_powerprefDisabled">الغاء</string>
+    <string name="settings_networkAddress">عنوان الشبكة</string>
+    <string name="settings_selectIP">اختر عنوان وحجم الشبكة الفرعية   </string>
+    <string name="settings_formABC">يجب أن يكون عنوان IP وقناع الشبكة صالحة للنموذج A.B.C.D / E. أرقام فقط، \ '\' و \ '/ \' المسموح بها.</string>
+    <string name="settings_flightOptions">توفير الطاقة - وضع الطيران</string>
+    <string name="settings_flightMode">تحديد أي أجهزة الراديو يمكن أن تعمل مرة أخرى حينما تكون في وضع الطيران (تحذير - لا تستخدم أثناء الطيران).</string>
+    <string name="settings_allowBluetooth">السماح للبلوتوث</string>
+    <string name="settings_needReboot">(يتطلب إعادة التشغيل)</string>
+    <string name="settings_allowWifi">السماح للواي فاي</string>
     
     <!-- Settings Screen -->
-    <string name="settingsscreen_header">Settings Screen</string>
-    <string name="settingsmmsscreen_header">MeshMS Settings Screen</string>
-    <string name="WifiSettingsLabel">Wifi Settings</string>
-    <string name="WifiSettingsText">View and Change Wifi Settings</string>
-    <string name="AccountsSettingsLabel">Accounts Management</string>
-    <string name="AccountsSettingsText">View and Change Various Accounts Settings</string>
-    <string name="LogShowLabel">View Logs</string>
-    <string name="LogShowText">View Serval Mesh Logfile</string>
-    <string name="PhoneResetLabel">Reset Details</string>
-    <string name="PhoneResetText">Reset Number and Name</string>
-    <string name="PhoneDetails">Phone No:</string>
-    <string name="ShowResetWifi">Mesh Testing</string>
-    <string name="ResetWifiText">Test if a Mesh network connection can be made</string>
+    <string name="settingsscreen_header">اعدادت الشاسة</string>
+    <string name="settingsmmsscreen_header">شاشة MeshMS إعدادات</string>
+    <string name="WifiSettingsLabel">إعدادات واي فاي</string>
+    <string name="WifiSettingsText">عرض وتغيير إعدادات الواي فاي</string>
+    <string name="AccountsSettingsLabel">إدارة الحسابات</string>
+    <string name="AccountsSettingsText">عرض وتغيير العديد من إعدادات الحسابات</string>
+    <string name="LogShowLabel">عرض سجلات</string>
+    <string name="LogShowText">serval project عرض سجلات </string>
+    <string name="PhoneResetLabel">اعادة ضبط التفاصيل</string>
+    <string name="PhoneResetText">اعادة ضبط الرقم والاسم</string>
+    <string name="PhoneDetails">رقم الجوال:</string>
+    <string name="ShowResetWifi">اختبار الشبكة</string>
+    <string name="ResetWifiText">ختبار ما إذا كان يمكن إجراء اتصال شبكة </string>
     
     <!-- Other settings screens -->
-        <string name="ac_name">Current Name</string>
-        <string name="ac_sid">Current Serval ID</string>
-        <string name="ac_no">Current Number</string>
-        <string name="MMSSettingsLabel">MeshMS Settings</string>
-        <string name="MMSSettingsText">View and Change MeshMS Settings</string>
-        <string name="MMSSettings_NotifSoundLabel">Notification Sound</string>
-        <string name="MMSSettings_NotifSoundText">Select notification sound for incoming MeshMS</string>
+    <string name="ac_name">الاسم الحالي</string>
+    <string name="ac_sid">رقم سيفرال الحالي</string>
+    <string name="ac_no">الرقم الحالي</string>
+    <string name="MMSSettingsLabel">MeshMS اعدادات</string>
+    <string name="MMSSettingsText">عرض وتغيير إعدادات MeshMS</string>
+    <string name="MMSSettings_NotifSoundLabel">صوت التنبيهات</string>
+    <string name="MMSSettings_NotifSoundText">اختر صوت التنبيهات الواردة لMeshMS/string>
 </resources>
